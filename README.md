@@ -38,7 +38,11 @@ check out my latest code: <a href="https://github.com/theonedefalt/Data-Structur
 ![](https://github-readme-stats.vercel.app/api?username=theonedefalt&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theonedefalt&theme=tokyonight&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theonedefalt&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="gifs/dogs.gif" width="450">
+
+<div margin-left = "2px">
+	<img src="gifs/dogs.gif" width="450">
+	
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=theonedefalt&icon=0&color=12)](https://visitcount.itsvg.in)
