@@ -22,7 +22,11 @@ check out my latest code: <a href="https://github.com/theonedefalt/Data-Structur
 
 ![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
 
-![](flames.gif)
+<div align="center">
+	<img src="flames.gif" width="1200">
+	<br>
+	<br>
+</div>
 
 
 ## 🌐 Socials:
