@@ -14,7 +14,7 @@
 
 <br>
 
-**check out my latest code:** [TP-02](https://github.com/theonedefalt/Data-Structures-and-Algorithms-II) ![](hot.gif)
+check out my latest code: <a href="https://github.com/theonedefalt/Data-Structures-and-Algorithms-II" style="color: red;">TP-02</a> ![](hot.gif)
 
 <br>
 <br>
