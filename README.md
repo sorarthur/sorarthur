@@ -13,6 +13,7 @@
 ![](under-construction.gif)
 
 <br>
+<img src="gifs/giphy.gif" align="right" width="80">
 
 check out my latest code: <a href="https://github.com/theonedefalt/Data-Structures-and-Algorithms-II" style="color: #fff;">TP-02</a> ![](hot.gif)
 
