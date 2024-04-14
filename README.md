@@ -14,9 +14,7 @@
 
 <br>
 
-check out my latest app: [Doodle Draw](https://sindresorhus.com/doodle-draw) ![](hot.gif)
-
-and my [latest blog post](https://sindresorhus.com/blog) ![](hot.gif)
+check out my latest code: [Doodle Draw](https://sindresorhus.com/doodle-draw) ![](hot.gif)
 
 <br>
 <br>
