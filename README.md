@@ -24,8 +24,6 @@ and my [latest blog post](https://sindresorhus.com/blog) ![](hot.gif)
 ![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
 
 ![](flames.gif)
-# 💫 About Me:
-i like coding and nerd stuffs<br><br>programming languages: java, c, c++ and c#
 
 
 ## 🌐 Socials:
