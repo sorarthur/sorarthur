@@ -3,10 +3,10 @@
 	<br>
 	<br>
 </div>
+<img src="gifs/trianglepunpun.gif" align="right" width="100">
 
 **i love code**&nbsp;&nbsp;<img src="gifs/coding.gif" width="80">&nbsp;&nbsp;**and dogs**&nbsp;&nbsp;<img src="gifs/dog.gif" width="60">
 
-<img src="gifs/trianglepunpun.gif" align="right" width="100">
 
 <br>
 
