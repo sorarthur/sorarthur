@@ -23,7 +23,7 @@ check out my latest code: <a href="https://github.com/theonedefalt/Data-Structur
 ![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
 
 <div align="center">
-	<img src="gifs/flames.gif" width="1200" height="200">
+	<img src="flames.gif" width="950">
 	<br>
 	<br>
 </div>
