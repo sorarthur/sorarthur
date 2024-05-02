@@ -17,6 +17,8 @@
 
 check out my latest code: <a href="https://github.com/theonedefalt/Data-Structures-and-Algorithms-II" style="color: #fff;">TP-02</a> ![](hot.gif)
 
+my C library: <a href="https://github.com/theonedefalt/Alexandria-Library" style="color: #fff;">Alexandria Library</a> ![](hot.gif)
+
 <br>
 <br>
 
