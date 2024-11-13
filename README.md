@@ -1,7 +1,5 @@
 <div align="center">
-	<img src="welcome-header.gif" alt="welcome to my github profile">
-	<br>
-	<br>
+	<img width="400" src="welcome-header.gif" alt="welcome to my github profile">
 </div>
 
 ## 🌐 Socials:
